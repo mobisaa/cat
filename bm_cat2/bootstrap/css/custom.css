@@ -1,0 +1,130 @@
+
+nav{
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.logo{
+    color: #fed136;
+    font-family: 'Kaushan Script', BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    margin-left: 150px;
+}
+.ulist{
+    margin-left: 520px;
+}
+.ulist li a{
+    color: #dae0e5;
+}
+.section1{
+    display: block;
+    width: 97.67%;
+    height: 45vh;
+    background-image: url("../../resources/photo-1523374228107-6e44bd2b524e.jpg");
+    margin-left: 15px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.section1 img{
+
+    margin-right: 55px;
+    width: 97.7%;
+    height: 50vh;
+}
+.secton2{
+    text-align: center;
+}
+.secton2 h3{
+    font-weight: bold;
+}
+.col-md-3, .col-md-4, .col-md-1{
+    height: 30vh;
+    width: 20%;
+    background-color: #ffffff;
+}
+.col-md-4 p{
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+
+.cat2b{
+    display: flow-root;
+    background-image: url("../../resources/pexels-photo-346529.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 65vh;
+    align-items: center;
+    justify-content: center;
+}
+.logo1 {
+    color: #000000;
+    font-weight: bold;
+    font-family: 'Kaushan Script', BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    margin-left: 15px;
+}
+.blist{
+    margin-left: 800px;
+}
+.blist li a {
+    color: #dae0e5;
+}
+.cat2b h3 p button{
+    margin-left: 25px;
+}
+.txt{
+    display: flow-root;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15vh;
+    margin-left: 25px;
+}
+.cat2bc{
+    display: flex;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.cat2bc h5 p{
+    margin-left: 25px;
+}
+
+.about{
+    display: flow-root;
+    margin-left: 25px;
+    padding: 0;
+    background-color: #ffffff;
+    text-align: center;
+}
+.col-md-5 img{
+    height: 100%;
+}
+.cc{
+    height: 45vh;
+    width: 100%;
+}
+.clist{
+    margin-left: 550px;
+}
+.clist li a {
+    color: #dae0e5;
+}
+.line{
+    align-items: center;
+    justify-content: center;
+    width: 5%;
+    height: 1vh;
+    border-width: 4px;
+    border-color: green;
+    border-radius: 4px;
+}
+.intro{
+    display: flow-root;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.intro h3 hr{
+    margin-bottom: 0;
+}
